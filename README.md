@@ -36,19 +36,19 @@ The dataset was cleaned, explored and specific it to the small target to analyse
 
 ### **Number of Loans per State:**
 
-![3](https://user-images.githubusercontent.com/65326291/134653971-4565bebb-a518-4992-b959-ff8e453d6e35.png)
+![per state](https://user-images.githubusercontent.com/65326291/134655879-c03f583a-7062-4ed7-a107-73929627a65a.png)
 
 Number of Loans per State is highiest on New York.
 
 ### **Percentage of Purpose of Loans:**
 
-![4](https://user-images.githubusercontent.com/65326291/134653992-2be3557c-2cf7-4079-b761-b3d0953b03af.png)
+![percentage](https://user-images.githubusercontent.com/65326291/134655889-82bcb91b-1441-4e9d-b3a1-dfd562eeb6dd.png)
 
 This chart shows the largest number of loans was for home purpose with 78.55%, unlike loans for cars was 4.44%.
 
 ### **Amount of Paid Loans over Time:**
 
-![5](https://user-images.githubusercontent.com/65326291/134654016-2690a200-f62a-4ddd-8f73-66141c3ed7f0.png)
+![over time](https://user-images.githubusercontent.com/65326291/134655868-97c663dc-a8b9-4d66-bab5-702cce4e3923.png)
 
 This shows that the payments are not stable.
 By 2017, The largest payments was occured.
